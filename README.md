@@ -72,6 +72,13 @@ The 火龙出水 (aka Huo Long Chu Shui, or Fire Dragon Out of Water) is a real 
 In this pivotal scene, Mulan's unit (led by Captain Li Shang) is ambushed by the Hun army in the mountains. When the Huns are charging toward them and the situation looks dire, Mulan grabs the last cannon/rocket from Yao. Instead of aiming it directly at the Hun leader Shan Yu as others had tried to do, she runs toward the mountain and fires the rocket into the snowy mountainside above the Hun army. This strategic move triggers a massive avalanche that buries most of the Hun forces.
 
 ## Functional use, and printing
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/AngryDragon1.png">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/AngryDragon2.png">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/AngryDragon3.png">
+</p>
+
 In order to install this shroud, you'll need 3 brass inserts, and their associated screws. I used [M3.5 Tapered Heat-Set Inserts with a 3.81mm installed length from McMaster-Carr](https://www.mcmaster.com/94180A502/). For the front screw hole, you'll need to line up the shroud, perhaps drill a small hole into your lower, not too deep, and set the heat insert. You should then be able to screw the shroud into the front of the Czech Nine lower to hold it in place. The two holes on the side of the dragon head will need inserts mounted in them. This will allow you to screw through them, and the screws will in turn then snug up against the sides of the lower. You can optionally drill small holes to allow the screws to rest in them preventing movement. If you don't have movement issues with the front hole operating alone, you can omit the side inserts if you like. 
 
 For print testing 2 walls, and 15% gyroid is recommended, use common sense settings when printing the final usable shroud, you can simply use your favorite 3D printed *lower* settings. If you are a 8 walls, 99% rectilinear kind of person, so be it. Print orientation seems only to matter if you want to minimize the number of supports printed. Vertical, horizontal, and 30-45 degree angle prints have all been tested, and all work fine. 
@@ -84,6 +91,17 @@ For print testing 2 walls, and 15% gyroid is recommended, use common sense setti
 ## Supported Intratec / Interdynamic uppers
 
 These files should support all known models as long as they are on Czech Nine frames. KG99, Tec-9, and Tec-DC9 should be compatible with the full length KG99-Tec9-DC9-MulanDragon v1.step, where as the shorter KG99-Mini, Tec-9 mini, and AB-10 models will want to use KG99mini-Tec9mini-AB10-MulanDragon v1.step. If you have problems with your barrel clearing the lip of the dragon, you can add a barrel extension, or alternately a 3/4X10 (female) to 3/4X10 (male) suppressor adapter (without the suppressor unless you want it!). 
+
+If you would like to build on this concept the "dev blanks" models are included as well. The dev blank can be used to spot check dimensions of any models that were not taken into account during the design phases of this project. 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/DevBlock.png">
+</p>
+
+The negative blank will allow a representation of the upper, lower, and mounting holes to be represented in any generic model. 
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/DevBlockNegative.png">
+</p>
+
 
 ## What's a Czech Nine? 
 If you made it this far, and have no clue what a Czech Nine is, this will be useful:
