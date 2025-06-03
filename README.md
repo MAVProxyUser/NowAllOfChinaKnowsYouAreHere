@@ -95,12 +95,12 @@ These files should support all known models as long as they are on Czech Nine fr
 
 If you would like to build on this concept the "dev blanks" models are included as well. The dev blank can be used to spot check dimensions of any models that were not taken into account during the design phases of this project. 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/DevBlock.png">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/CzechNineDevBlank.png">
 </p>
 
 The negative blank will allow a representation of the upper, lower, and mounting holes to be represented in any generic model. 
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/DevBlockNegative.png">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/NowAllOfChinaKnowsYouAreHere/master/CzechNineDevBlankNegative.png">
 </p>
 
 
