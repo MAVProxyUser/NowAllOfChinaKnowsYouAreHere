@@ -9,7 +9,8 @@
    * [Licensing, and access to these files](#licensing-and-access-to-these-files)
    * [Inspiration](#inspiration)
    * [Disclaimer](#disclaimer)
-
+   * [MD5 sums](#md5)
+    
 # Now All Of China Knows You Are Here
 
 Per ["Fair Use"](https://www.copyright.gov/fair-use/) laws, this is a 2D to 3D transformation *inspired* by the [1998 Mulan animated film](https://en.wikipedia.org/wiki/Mulan_(1998_film)).
@@ -179,3 +180,15 @@ A Vice News documentary "I 3D-Printed a Glock to See How Far Homemade Guns Have 
 
 ## Disclaimer
 Please use these files responsibly. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material. To reiterate, this 3D printable file is provided AS-IS with NO WARRANTY. Improper manufacturing, assembly, or use could result in serious injury, loss of limb, or death. User assumes ALL risks and responsibility. Not for use by minors. Always follow applicable laws and safety protocols.
+
+## MD5
+Current file MD5 sums are as follows, make sure you have the latest version of this repo:<br>
+MD5 (KG99-Tec9-DC9-MulanDragon v1.step) = d2c2b24213201b2f531e2e03153b178b<br>
+MD5 (KG99mini-Tec9mini-AB10-MulanDragon v1.step) = 9cad9c41925868d907ccf4b32a0a4d80<br>
+MD5 (KG99mini-Tec9mini-AB10-MulanDragon-Slotted v1.step) = efd7f657818b3abdc59e7d2c047f611a<br>
+MD5 (Tec9DevBlock.step) = 03f7c104b3b408b17462e2904a2d43ae<br>
+MD5 (KG99-Tec9-DC9-MulanDragon v1.stl) = a0e410f82d2bb8f13e55bb8ee9ca5ea6<br>
+MD5 (KG99mini-Tec9mini-AB10-MulanDragon v1.stl) = f8e77ad800e2e80bea0df9d7ea2a1429<br>
+MD5 (KG99mini-Tec9mini-AB10-MulanDragon-Slotted v1.stl) = 2b3ddd2d0c927ad129b6d0a99021e878<br>
+MD5 (Tec9DevBlock.stl) = 124c6f16616514e52526e119c929247d<br>
+
